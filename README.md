@@ -31,3 +31,4 @@ Atualmente, desenvolvendo projetos full-stack, automação e IA.
 ## Contato
 https://www.linkedin.com/in/jeffry-smith-alves-da-silva-61b119205/
 
+## Teresina, PI - Brasil
