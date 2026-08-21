@@ -5,7 +5,7 @@ Atualmente, desenvolvendo projetos full-stack, automação e IA.
 
 ## Sobre mim
 
-- 🎓 Cursando Engenharia de Software (5º semestre) no ICEV
+- 🎓 Cursando Engenharia de Software (6º semestre) no ICEV
 - 🚀 Construindo portfólio com projetos reais no GitHub
 - 💡 Interesses: Backend, APIs REST, Automação, Inteligência Artificial
 - ☕ Aprofundando conhecimentos em Java Spring Boot e Python
